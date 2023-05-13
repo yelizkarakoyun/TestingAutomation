@@ -1,5 +1,5 @@
-package util;
+package utils;
 
-public Cart{
+public class Cart{
   //
 }
